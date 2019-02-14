@@ -6,6 +6,13 @@ This tool will basically be looking at implementing the Cyber Kill Chain courtes
 ## Step One: Reconnaissance
 Implement an Nmap API and gather data
 
+
+### Required Dependencies
+1. python-nmap - this provides the python interface to interact
+
+
+
+
 You can use the [editor on GitHub](https://github.com/Aero-geek/offensive-security/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
