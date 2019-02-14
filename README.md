@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Offensive Security using Artificial Intelligence
+Artificial Intelligence is quite a broad term with different concepts that are encompassed under it, such as machine learning, deep learning and others. 
+
+This tool will basically be looking at implementing the Cyber Kill Chain courtesy of Lockheed Martin using various techniques currently available. This is a learning tool for the author and this project may or may not build an actual system. The project will be using tensorflow and keras. Pytorch may be considered depending on the level of understanding of tensorflow the author develops.
+
+## Step One: Reconnaissance
+Implement an Nmap API and gather data
 
 You can use the [editor on GitHub](https://github.com/Aero-geek/offensive-security/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
